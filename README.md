@@ -86,3 +86,13 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson.
+
+
+
+
+--------------------------------------------------------------------------
+for more infomation this server
+1. in the patch mapconfig step. I have to use command below to apply the config 
+  kubectl apply -f {filename}
+2. external ip
+  a69b6d947e498470c91d5d8af4ff8cd3-1057730083.us-east-2.elb.amazonaws.com
